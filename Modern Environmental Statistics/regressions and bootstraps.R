@@ -305,7 +305,7 @@ print(paste0("p(z>A_CDD)=",cddp,"<0.025")) ##has trend
 #SOI(1866-now,Jones), 
 #PDO(Mantua, U. Washington)
 #NAO Gibraltar-Stykkisholmur
-#AMO derived from HadSST SST SST EQ-60캮, 0�-80캷 minus SST 60캳-60캮
+#AMO derived from HadSST SST SST EQ-60째N, 0째-80째W minus SST 60째S-60째N
 #CRUTEM4 global land temperature
 ###Download and clean data###
 nyr=2018-1944+1
