@@ -1,1 +1,1 @@
-This is for snotel_screening preprocessing.
+This is example data for snotel_screening preprocessing.
